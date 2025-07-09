@@ -48,7 +48,7 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 
 ## 📈 GitHub Stats
 
-![SAIKOT CHANDRA BARMAN's GitHub Stats](https://github.com/soikot026)
+![SAIKOT CHANDRA BARMAN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulkuzur&show_icons=true&hide_title=true&hide_border=true&count_private=true&hide=prs&theme=radical)
 
 ## 📊 Top Languages
 
