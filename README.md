@@ -75,7 +75,7 @@ I write about tech, open-source, and development insights:
 
 ## 📣 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/saikot-chandra-barmon-723105374/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/saikot-chandra-barmon-313667374/)  
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat-square)](https://x.com/Soikot05026)
 
 ---
