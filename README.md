@@ -69,7 +69,7 @@ Currently, I’m developing **ChatApp** — a powerful web-based platform for vi
 I write about tech, open-source, and development insights:
 
 - 🛠️ [How I Built ChatRS](https://chatrs.xyz/)  
-- 📡 [Getting Started with WebRTC](https://soikot.xyz/)
+- 📡 [Getting Started with WebRTC](https://saikot.xyz/)
 
 ---
 
